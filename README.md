@@ -1,5 +1,5 @@
-# api-workspace-generator-loader
-Generator for API-driven workspaces to create some load or and storage testing
+# cli-workspace-generator-loader
+Generator for CLI-driven workspaces to create some load or and storage testing
 
 This project will alow you to create some (large) amount of workspaces that are CLI-backed by my some GitHub repo,  and (potentially) attach them into agent pools
 
